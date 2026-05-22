@@ -1,0 +1,11 @@
+BACKEND DJANGO - LAÇOS DE AÇÚCAR
+
+Entre na pasta "backend" e rode:
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
+Deixe o servidor aberto enquanto usa login, registro ou ranking no jogo.

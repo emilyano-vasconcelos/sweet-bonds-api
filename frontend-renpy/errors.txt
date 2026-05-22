@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/api.rpy", line 87: expected an indented block after function definition on line 86
+    if not store.username.strip():
+        ^^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Thu May 21 11:10:24 2026
